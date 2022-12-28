@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kwadwo-Firempong-Boakye
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning Javascript & Bash
+- 🌱 I’m currently learning Javascript, CSS, SQL, GIT & HTML
+- 🌱 Will start React, Node and Express soon. Also looking at Ruby on Rails as well.
 - 💞️ I’m looking to collaborate on any impactful projects that help me improve my skillset
 - 📫 How to reach me --> Twitter : @KwadwoTheFire
 
